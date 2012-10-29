@@ -1,0 +1,37 @@
+
+ /**** Для решения д/з я взял, предложенный вариант (кнопка на сайте http://www.skbkontur.ru/) */
+ \**********************************************************************************************\
+
+#### Cамый длиный селектор 	 ####
+
+html>head+body>div.main>div.head-block+div.menu-and-search+div.index>div.left-part->div.b-slides.image-rounder-white+script+div.concepts.concepts__main+div.ad+div.left-part>div.left-col-+div.right-col->div.news.fresh-news+div.buhonline-block>a>img 
+
+####
+#### Самый короткий селектор ####
+
+[alt$="н"]
+
+##### 
+##### Остальные варианты     ####
+
+a[href='http://www.buhonline.ru'] :first-child  /**** (или a[href='http://www.buhonline.ru'] > img) */
+
+a:nth-child(1) img[title$="н"]
+
+.right-col- img:nth-of-type(1)
+
+img[alt="Бухгалтерия Онлайн"]
+
+.right-col- :first-child img
+
+.news.fresh-news+div a img
+
+.buhonline-block a > img 
+
+:empty[src^='/theme/'] 
+
+img[src|="/theme/ver"]
+
+.buhonline-block img
+
+div+div>a>img
