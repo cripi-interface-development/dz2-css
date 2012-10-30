@@ -1,0 +1,38 @@
+img[alt$="йн"] {
+}
+a[href$="e.ru/"] img {
+}
+.main div + div > a img {
+}
+.index div + div > a img {
+}
+.left-part div + div > a img {
+}
+img[alt="Бухгалтерия Онлайн"] {
+}
+.right-col- div:last-child img {
+}
+img[title="Бухгалтерия Онлайн"] {
+}
+.buhonline-block a:nth-child(1) img {
+}
+a[href="http://www.buhonline.ru/"] img {
+}
+.buhonline-block a:nth-last-child(3) img {
+}
+.left-part div:last-child > div:last-child img {
+}
+.main .index .left-part- .right-col- div > a > img {
+}
+.index div > div > div:last-child > div:last-child img {
+}
+.main div > div > div > div:last-child > div:last-child img {
+}
+.main div > div > div > div:last-child > div:not(.news) img {
+}
+.main .index .left-part- .right-col- .buhonline-block img {
+}
+.main div > div > div > div:not(.left-col-) > div:not(.news) img {
+}
+
+
