@@ -1,0 +1,314 @@
+* {
+ }
+
+img {
+}
+
+img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+img[alt="Бухгалтерия Онлайн"] {
+}
+
+img[title="Бухгалтерия Онлайн"] {
+}
+
+img[title^="Бухгалтерия"] {
+}
+
+img[title$="Онлайн"] {
+}
+
+a img {
+}
+
+a > img {
+}
+
+.news ~ div img {
+}
+
+.news + div a img {
+}
+
+a[target="_blank"] img {
+}
+
+a[href="http://www.buhonline.ru"] img {
+}
+
+a img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+a img[alt="Бухгалтерия Онлайн"] {
+}
+
+a img[title="Бухгалтерия Онлайн"] {
+}
+
+a[target="_blank"] img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+a[href="http://www.buhonline.ru"] img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+a[target="_blank"] img[alt="Бухгалтерия Онлайн"] {
+}
+
+a[href="http://www.buhonline.ru"] img[alt="Бухгалтерия Онлайн"] {
+}
+
+a[target="_blank"] img[title="Бухгалтерия Онлайн"] {
+}
+
+a[href="http://www.buhonline.ru"] img[title="Бухгалтерия Онлайн"] {
+}
+
+div img {
+}
+
+div[class~="buhonline-block"] a img {
+}
+
+a:first-child img {
+}
+
+.right-col-:nth-child(2n) a img {
+}
+
+.buhonline-block a:nth-of-type(2n+1) img {
+}
+
+.buhonline-block img {
+}
+
+div.buhonline-block img {
+}
+
+.right-col- div img {
+}
+
+.right-col- .buhonline-block img {
+}
+
+.left-part .right-col- div img {
+}
+
+.left-part div .buhonline-block img {
+}
+
+.left-part div div img {
+}
+
+.left-part .right-col- .buhonline-block img {
+}
+
+.left-part- .left-part .right-col- .buhonline-block img {
+}
+
+.left-part- .left-part .right-col- div img {
+}
+
+.left-part- .left-part div .buhonline-block img {
+}
+
+.left-part- div .right-col- .buhonline-block img {
+}
+
+div .left-part .right-col- .buhonline-block img {
+}
+
+div .left-part- .left-part .right-col- .buhonline-block img {
+}
+
+div .index .left-part- .left-part .right-col- .buhonline-block img {
+}
+
+body div .index .left-part- .left-part .right-col- .buhonline-block img {
+}
+
+body .main .index .left-part- .left-part .right-col- .buhonline-block img {
+}
+
+div img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div img[alt="Бухгалтерия Онлайн"] {
+}
+
+div img[title="Бухгалтерия Онлайн"] {
+}
+
+div a img {
+}
+
+div a img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div a img[alt="Бухгалтерия Онлайн"] {
+}
+
+div a img[title="Бухгалтерия Онлайн"] {
+}
+
+div a[target="_blank"] img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div a[href="http://www.buhonline.ru"] img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div a[target="_blank"] img[alt="Бухгалтерия Онлайн"] {
+}
+
+div a[href="http://www.buhonline.ru"] img[alt="Бухгалтерия Онлайн"] {
+}
+
+div a[target="_blank"] img[title="Бухгалтерия Онлайн"] {
+}
+
+div a[href="http://www.buhonline.ru"] img[title="Бухгалтерия Онлайн"] {
+}
+
+div div img {
+}
+
+div div img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div div img[alt="Бухгалтерия Онлайн"] {
+}
+
+div div img[title="Бухгалтерия Онлайн"] {
+}
+
+div div a img {
+}
+
+div div a img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div div a img[alt="Бухгалтерия Онлайн"] {
+}
+
+div div a img[title="Бухгалтерия Онлайн"] {
+}
+
+div div div img {
+}
+
+div div div img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div div div img[alt="Бухгалтерия Онлайн"] {
+}
+
+div div div img[title="Бухгалтерия Онлайн"] {
+}
+
+div div div a img {
+}
+
+div div div a img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div div div a img[alt="Бухгалтерия Онлайн"] {
+}
+
+div div div a img[title="Бухгалтерия Онлайн"] {
+}
+
+div div div div img {
+}
+
+div div div div img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div div div div img[alt="Бухгалтерия Онлайн"] {
+}
+
+div div div img[title="Бухгалтерия Онлайн"] {
+}
+
+div div div div a img {
+}
+
+div div div div a img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div div div div a img[alt="Бухгалтерия Онлайн"] {
+}
+
+div div div div a img[title="Бухгалтерия Онлайн"] {
+}
+
+div div div div div img {
+}
+
+div div div div div img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div div div div div img[alt="Бухгалтерия Онлайн"] {
+}
+
+div div div div div img[title="Бухгалтерия Онлайн"] {
+}
+
+div div div div div a img {
+}
+
+div div div div div a img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div div div div div a img[alt="Бухгалтерия Онлайн"] {
+}
+
+div div div div div a img[title="Бухгалтерия Онлайн"] {
+}
+
+div div div div div div img {
+}
+
+div div div div div div img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div div div div div div img[alt="Бухгалтерия Онлайн"] {
+}
+
+div div div div div div img[title="Бухгалтерия Онлайн"] {
+}
+
+div div div div div div a img {
+}
+
+div div div div div div a img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+div div div div div div a img[alt="Бухгалтерия Онлайн"] {
+}
+
+div div div div div div a img[title="Бухгалтерия Онлайн"] {
+}
+
+body div div div div div div img {
+}
+
+body div div div div div div img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+body div div div div div div img[alt="Бухгалтерия Онлайн"] {
+}
+
+body div div div div div div img[title="Бухгалтерия Онлайн"] {
+}
+
+body div div div div div div a img {
+}
+
+body div div div div div div a img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+body div div div div div div a img[alt="Бухгалтерия Онлайн"] {
+}
+
+body div div div div div div a img[title="Бухгалтерия Онлайн"] {
+}
