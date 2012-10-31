@@ -1,0 +1,16 @@
+img{
+  margin:auto;
+  cursor:pointer;
+}
+a:hover img{
+  border:1px solid #ffffff
+}
+body{
+display:block
+}
+table{
+/* Свойства для размещения элементов */
+}
+table td{
+/* Свойства для размещения элементов */
+}
