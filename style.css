@@ -1,0 +1,15 @@
+﻿[alt$=н] {
+	opacity: 0.2;
+}
+[alt^=Б] {
+	opacity: 0.2;
+}
+[alt*=ух] {
+	opacity: 0.2;
+}
+[src*=bu] {
+	opacity: 0.2;
+}
+html[xmlns*="http://www.w3.org/1999/xhtml"] > head + body:nth-child(1n):nth-child(2n):nth-of-type(1n):last-child:last-of-type:first-of-type:nth-child(3n-1):nth-of-type(2n-1):only-of-type > div.main:nth-child(1n):nth-of-type(1n):first-child:first-of-type:nth-child(2n-1):nth-of-type(2n-1) > div.menu-and-search + div.index:nth-child(1n):nth-of-type(1n):nth-child(3n):nth-of-type(3n):nth-child(2n-1):nth-of-type(4n-1) > div.left-part-:nth-child(1n):nth-of-type(1n):first-child:first-of-type:nth-child(2n-1):nth-of-type(2n-1) > div.left-part:nth-child(1n):nth-child(5n):nth-of-type(1n):nth-of-type(2n):nth-of-type(4n):last-child:last-of-type:nth-child(6n-1):nth-of-type(5n-1) > div.left-col- + div.right-col-:nth-child(1n):nth-child(2n):nth-of-type(1n):nth-of-type(2n):last-child:last-of-type:nth-child(3n-1):nth-of-type(3n-1) > div.news.fresh-news + div.buhonline-block:nth-child(1n):nth-child(2n):nth-of-type(1n):nth-of-type(2n):last-child:last-of-type:nth-child(3n-1):nth-of-type(3n-1) > a[href*="http://www.buhonline.ru"][target*="_blank"]:nth-child(1n):nth-of-type(1n):nth-child(2n-1):nth-of-type(2n-1):first-child:first-of-type:only-of-type > img[src*="/theme/ver-1603233632/images/buhonline-logo.gif"][alt*="Бухгалтерия Онлайн"][title*="Бухгалтерия Онлайн"]:nth-child(1n):nth-child(2n-1):nth-of-type(1n):nth-of-type(2n-1):first-child:last-child:first-of-type:last-of-type:only-child:only-of-type:not(p) {
+	opacity: 0.2;
+}
