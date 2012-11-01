@@ -1,0 +1,40 @@
+
+
+/*  начнем счегонибуть простовго
+.buhonline-block > a {
+  border:1px solid #000;
+}
+.buhonline-block a:first-child{
+  border:1px solid #000;
+}
+.buhonline-block > :first-child{
+  border:1px solid #000;
+}
+a:not(:last-child)[target="_blank"]{
+  border:1px solid #000;
+}
+a[href="http://www.buhonline.ru/"]{
+  border:1px solid #000;
+}
+div:not(.img-) > a:nth-of-type(1) img {
+  border:1px solid #000;
+}
+:root :nth-child(3) :first-child :nth-child(4) > :nth-last-child(1) > :nth-child(even) > :nth-child(1)[href$=".ru/"]    {
+  border:1px solid #000;
+}
+[href$=".ru/"]:first-child{
+  border:1px solid #000;
+}
+
+css4 на дисерт
+:root :-webkit-any(.buhonline-block, .right-col- ) [href$=".ru/"],
+:root :-moz-any(.buhonline-block, .right-col- ) [href$=".ru/"]{
+  border:1px solid #000;
+}
+
+.buhonline-block > :-webkit-any-link{
+  border:1px solid #000;
+}
+:root:hover .main div:not(.img-):not(.right-column-) > :-webkit-any-link img{
+  border:1px solid #000;
+}*/
