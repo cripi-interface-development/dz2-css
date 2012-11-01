@@ -5,3 +5,5 @@
 ## Полезные ссылки
   * [Как отправить домашнее](https://github.com/cripi-interface-development/lectures#%D0%92%D0%BE%D1%80%D0%BA%D1%84%D0%BB%D0%BE%D1%83)
 
+## Ограничения
+  * Задание принимается до 24:00 01.11.2012
