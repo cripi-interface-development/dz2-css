@@ -1,0 +1,38 @@
+* {
+}
+
+img {
+}
+
+img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+img[alt="Бухгалтерия Онлайн"] {
+}
+
+img[title="Бухгалтерия Онлайн"] {
+}
+
+a img {
+}
+
+a > img {
+}
+
+a img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+}
+
+a[href="http://www.buhonline.ru"] img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+} 
+/* и ещё вариации на тему атрибутов */
+
+a[href="http://www.buhonline.ru"] :first-child {
+}
+
+div a img {
+}
+
+div[class~="buhonline-block"] a img {
+}
+
+
