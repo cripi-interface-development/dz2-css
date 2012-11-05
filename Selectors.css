@@ -1,0 +1,35 @@
+﻿img[src="/theme/ver-1603233632/images/buhonline-logo.gif"]  {
+    background-color: black;
+   }
+
+img[src*="buhonline-logo.gif"]  {
+    background-color: black;
+   }
+
+img[alt="Бухгалтерия Онлайн"]  {
+    background-color: black;
+   }
+
+img[title="Бухгалтерия Онлайн"]  {
+    background-color: black;
+   }
+
+div > a[href^="http://www.buhonline.ru"] > img {
+    background-color: black;
+	}
+
+	div[class~="buhonline-block"] a img {
+    background-color: black;
+	}
+	
+a[href^="http://www.buhonline.ru"] > img {
+    background-color: black;
+	}
+
+a img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+    background-color: black;
+	}
+
+a[href="http://www.buhonline.ru"] img[src="/theme/ver-1603233632/images/buhonline-logo.gif"] {
+    background-color: black;
+	} 
