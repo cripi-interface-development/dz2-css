@@ -1,0 +1,39 @@
+﻿/*Для решения выбрана картинка с сайта 101.ru (***http://101.ru/vardata/modules/channel/image/117c060594f92e1eefa416ad06638137.png***)*/
+img[src$="117c060594f92e1eefa416ad06638137.png"] {
+}
+img[alt="Easy Listening"] {
+}
+img[title="Easy Listening"] {
+}
+link[rel="image_src"] {
+} 
+link[href*="117c060594f92e1eefa416ad06638137.png"] {
+} 
+.chanplay_group_on link > img
+linlk > img {
+}
+.channel_logo img
+link[href="/vardata/modules/channel/image/117c060594f92e1eefa416ad06638137.png"] :first-child{
+}	
+link:first-child img {
+}
+link img {
+}	
+.channel_logo img {
+}
+link[href="/vardata/modules/channel/image/117c060594f92e1eefa416ad06638137.png"] img {
+}
+link img[src="/vardata/modules/channel/image/117c060594f92e1eefa416ad06638137.png"] {
+}
+div img {
+}
+div[class~="chanplay_group_on"] link img {
+}
+div.chanplay_group_on img {
+}
+div img[src="/vardata/modules/channel/image/117c060594f92e1eefa416ad06638137.png"] {
+}
+div img[title="Easy Listening"] {
+}	
+div img[title="Бухгалтерия Онлайн"] {
+}
