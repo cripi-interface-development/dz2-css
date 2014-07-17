@@ -1,0 +1,51 @@
+.buhonline-block a img{
+    background-color: red;
+}
+
+img[alt="Бухгалтерия Онлайн"] {
+    background-color: red;
+}
+
+img[src="./ЗАО  ПФ  СКБ Контур _files/buhonline-logo.gif"] {
+    background-color: red;
+}
+
+img[title="Бухгалтерия Онлайн"] {
+    background-color: red;
+}
+
+img[src^="./ЗАО  ПФ  СКБ Контур _files/buhonline-logo"] {
+    background-color: red;
+}
+
+img[src$="buhonline-logo.gif"] {
+    background-color: red;
+}
+
+img[src*="buhonline-logo"] {
+    background-color: red;
+}
+
+a[href="http://www.buhonline.ru/"] :first-child {
+    background-color: red;
+}
+
+.fresh-news + .buhonline-block a img {
+    background-color: red;
+}
+
+.buhonline-block a > img {
+    background-color: red;
+}
+
+.right-col- :nth-child(even) a img {
+    background-color: red;
+}
+
+.right-col- :last-child a img {
+    background-color: red;
+}
+
+.right-col- :nth-of-type(2) a img {
+    background-color: red;
+}
