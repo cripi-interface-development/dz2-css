@@ -1,0 +1,53 @@
+html body div.main > div.head-block + div.menu-and-search + div.index > div.left-part- > div.b-slides.image-rounder-white + script[type="text/javascript"] + div.concepts.concepts__main + div.ad + div.left-part > div.left-col- + div.right-col- > div.news.fresh-news + div.buhonline-block > a[href="http://www.buhonline.ru/"] img[title="Бухгалтерия Онлайн"][alt="Бухгалтерия Онлайн"] {
+}
+
+.main > div:nth-child(3) > .left-part- > div:nth-of-type(4) > div:last-child > div:last-child > a img {
+}
+
+.main .index .left-part- .left-part .right-col- .buhonline-block a img {
+}
+
+div > a img[title^="Б"] {
+}
+
+.left-part- div:nth-of-type(2n) > a img {
+}
+
+.left-part img[title^="Б"] {
+}
+
+.right-col- > .news.fresh-news + .buhonline-block :first-child img {
+}
+
+.right-col- > .news.fresh-news + .buhonline-block img {
+}
+
+.right-col- > :last-child img {
+}
+
+.right-col- img[title^="Б"] {
+}
+
+.buhonline-block a img {
+}
+
+.buhonline-block img {
+}
+
+a[href="http://www.buhonline.ru/"] img {
+}
+
+a[href*="buh"] img {
+}
+
+img[alt^="Бухгалтерия"] {
+}
+
+img[title^="Бухгалтерия"] {
+}
+
+img[alt$="н"] {
+}
+
+img[title$="н"] {
+}
