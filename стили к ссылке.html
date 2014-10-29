@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Ссылка</title>
+</head>
+<body>
+<style type="text/css">
+* { margin: 10px; padding: 10px; }
+a { color: #3931D0; }
+a:link { color: #5FD03D; }
+a:visited { color: #D01450; }
+a:hover {  border: 2px solid black; background: #e24486; }
+a:active  { color: lime }
+a[title] { color: #FFDD00; }
+a.myclass { text-shadow: 1px 1px 2px black, 0 0 1em red; color: black; font-size: 2em; } 
+a[href="http://www.skbkontur.ru/theme/ver-1603233632/images/buhonline-logo.gif"] { color: #FFC2A5; }
+a[href*="skbkontur"] { color: #3CFFFC; }
+a[href^="http"] { color: black; }
+a[href$=".gif"] { color: red; }
+a[title~="ссылка"] { color: green; }
+a:not(#link) { color: blue; }
+div > a:first-child { color: #F423FF; }
+div > a:last-child { color: #FFF569; }
+a:nth-of-type(1) { border: 1px solid green; }
+a:nth-last-of-type(1) { border: 10px solid black; }
+div a:only-child { color: red; }
+p::first-letter { float: bottom; font-size: 2em; font-weight: bold; font-family: cursive; padding-right:2px;}
+p > a:only-of-type { font-weight: bold; }
+p:first-of-type > a:nth-child(1) { font-weight: bold; }
+a::selection { background: #FFF569; }
+</style>
+<div>
+<p>
+<a href="http://www.skbkontur.ru/theme/ver-1603233632/images/buhonline-logo.gif" class="myclass" id="link" title="ссылка на бухгалтерию" >Мое домашнее задание номер 2</a>
+</p>
+</div>
+</body>
+</html>
